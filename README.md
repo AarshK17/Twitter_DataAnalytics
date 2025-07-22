@@ -99,7 +99,15 @@ A complete Word report is available for download covering:
 
 ## 📸 Screenshots
 
-> *(Include images of each dashboard here if available, or reference the Power BI report link)*
+> <img width="500" height="282.98" alt="trainingProject" src="https://github.com/user-attachments/assets/acfb1f43-c977-43d6-ad97-ff3dc5774df2" />
+> <img width="500" height="282.98" alt="task1" src="https://github.com/user-attachments/assets/6e4b5a7f-e5bb-4db1-97b3-cf41695c891c" />
+> <img width="500" height="282.98" alt="task2" src="https://github.com/user-attachments/assets/033a9c8e-3327-4603-b781-76b859ff8df9" />
+> <img width="500" height="282.98" alt="task3" src="https://github.com/user-attachments/assets/4be52fe9-4f8f-487a-89d9-be84bb30a9b4" />
+
+
+
+
+
 
 ---
 
