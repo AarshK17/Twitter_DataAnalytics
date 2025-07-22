@@ -127,8 +127,5 @@ Power BI Enthusiast | Data Visualization & Social Media Analytics
 
 ---
 
-## 📄 License
-
-This project is licensed under the [NullClass Edtech Private Limited](LICENSE).
 
 
