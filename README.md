@@ -1,10 +1,10 @@
-# 📊 Twitter Analytics Dashboard - Power BI Project
+# Twitter Analytics Dashboard - Power BI Project
 
 This project is a Power BI-based analysis of Twitter engagement data. It focuses on understanding user interactions such as clicks, media engagement, and app opens using advanced filtering, drill-downs, and dynamic visuals.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The dashboard provides detailed insights into:
 - Types of clicks (URL, profile, hashtag) for high-impression tweets
@@ -13,7 +13,7 @@ The dashboard provides detailed insights into:
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Master Power BI data transformation using Power Query
 - Implement DAX for conditional formatting and time-based visibility
@@ -22,13 +22,13 @@ The dashboard provides detailed insights into:
 
 ---
 
-## ⚙️ Features and Tasks
+## Features and Tasks
 
-### ✅ Task 1: Pie Chart with Drill-down
+### Task 1: Pie Chart with Drill-down
 - Visualizes the **proportion of total clicks** for tweets with **>500 impressions**
 - Drill-down to view **click type breakdown** (URL, profile, hashtag) per tweet
 
-### ✅ Task 2: Conditional Scatter Chart
+### Task 2: Conditional Scatter Chart
 - Shows the **relationship between media engagements and views**
 - Filters applied:
   - Tweets with **>10 replies**
@@ -37,7 +37,7 @@ The dashboard provides detailed insights into:
   - Displayed **only from 6 PM to 11 PM IST**
   - Tweets with **engagement rate > 5%** are highlighted
 
-### ✅ Task 3: Engagement Rate Comparison
+### Task 3: Engagement Rate Comparison
 - Compares tweets **with vs without app opens**
 - Filters applied:
   - Posted **between 9 AM and 5 PM on weekdays**
@@ -47,7 +47,7 @@ The dashboard provides detailed insights into:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI**
 - **Power Query** for data cleaning
@@ -56,7 +56,7 @@ The dashboard provides detailed insights into:
 
 ---
 
-## 🔍 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Modeling and Transformation
 - Conditional Chart Rendering using DAX
@@ -66,7 +66,7 @@ The dashboard provides detailed insights into:
 
 ---
 
-## 🧩 Challenges & Solutions
+## Challenges & Solutions
 
 | Challenge | Solution |
 |----------|----------|
@@ -77,7 +77,7 @@ The dashboard provides detailed insights into:
 
 ---
 
-## 📈 Outcomes and Impact
+## Outcomes and Impact
 
 - Revealed top-performing tweet strategies
 - Identified tweet formats that drive engagement
@@ -86,18 +86,18 @@ The dashboard provides detailed insights into:
 
 ---
 
-## 📄 Report
+## Report
 
 A complete Word report is available for download covering:
 - Introduction
 - Tasks and Implementation
 - Skills Used
 - Challenges and Outcomes  
-👉 [Download Word Report](./Twitter_Analytics_PowerBI_Report.docx)
+  [Download Word Report](./Twitter_Analytics_PowerBI_Report.docx)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > <img width="500" height="282.98" alt="trainingProject" src="https://github.com/user-attachments/assets/acfb1f43-c977-43d6-ad97-ff3dc5774df2" />
 > <img width="500" height="282.98" alt="task1" src="https://github.com/user-attachments/assets/6e4b5a7f-e5bb-4db1-97b3-cf41695c891c" />
@@ -111,7 +111,7 @@ A complete Word report is available for download covering:
 
 ---
 
-## 📬 Feedback and Future Work
+## Feedback and Future Work
 
 Your feedback is welcome! Future improvements could include:
 - Real-time Twitter API integration
@@ -120,7 +120,7 @@ Your feedback is welcome! Future improvements could include:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Aarsh Khadgi**  
 Power BI Enthusiast | Data Visualization & Social Media Analytics
